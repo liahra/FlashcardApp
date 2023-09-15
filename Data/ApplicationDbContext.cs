@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using FlashcardApp_vs.Models;
 
 namespace FlashcardApp_vs.Data
 {
@@ -9,5 +10,6 @@ namespace FlashcardApp_vs.Data
             : base(options)
         {
         }
+        public DbSet<FlashcardApp_vs.Models.Flashcard> Flashcard { get; set; } = default!;
     }
 }

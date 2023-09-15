@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FlashcardApp_vs.props" />
+</Project>

@@ -20,6 +20,30 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/chris/Documents/IT og informasjonsystemer/FlashcardApp_vs/Views/Flashcards/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxhc2hjYXJkc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chris/Documents/IT og informasjonsystemer/FlashcardApp_vs/Views/Flashcards/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxhc2hjYXJkc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chris/Documents/IT og informasjonsystemer/FlashcardApp_vs/Views/Flashcards/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxhc2hjYXJkc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chris/Documents/IT og informasjonsystemer/FlashcardApp_vs/Views/Flashcards/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxhc2hjYXJkc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chris/Documents/IT og informasjonsystemer/FlashcardApp_vs/Views/Flashcards/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxhc2hjYXJkc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chris/Documents/IT og informasjonsystemer/FlashcardApp_vs/Views/Flashcards/ShowSearchForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxhc2hjYXJkc1xTaG93U2VhcmNoRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/chris/Documents/IT og informasjonsystemer/FlashcardApp_vs/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
